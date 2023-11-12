@@ -1,24 +1,6 @@
 
 # Generative Wall Art with Apple Vision Pro
-A compact example project that demonstrates the core functionalities of visionOS, accompanied by a Youtube tutorial series where we code this example from scratch. 
-
-![Alt Text](resources/part2.gif)
-
-If you want to get started with development for Apple Vision Pro, this is your perfect starting point. 
-
-Follow us on Twitter: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/tracy__henry.svg?style=social&label=Follow%20%40tvon_g)](https://twitter.com/tvon_g) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/tracy__henry.svg?style=social&label=Follow%20%40tracy__henry)](https://twitter.com/tracy__henry)
-
-
-### Tutorials
-[![YouTube - Subscribe](https://img.shields.io/badge/YouTube-Subscribe-ffffff?logo=youtube&logoColor=%23f22c00)](https://www.youtube.com/@tassilovg)
-
-* [Part 0: Building a Vision Pro App with SwiftUI & RealityKit](https://youtu.be/IefFafD8mR8)
-* [Part 1: Window Group & Immersive Space](https://youtu.be/KTFh-6LyFEI)
-* [Part 2: Reality Kit Entities & Anchors](https://youtu.be/NZ-TJ8Ln7NY)
-* [Part 3: SwiftUI Attachments, Combine, Reality Composer Pro Animations](https://youtu.be/m514qEoeOFU)
-* _More Videos coming soon!_
-<img src="resources/demo_video_thumb.png" width="400">
-
+A compact example project that demonstrates the core functionalities of visionOS
 
 ### visionOS APIs Used
 
