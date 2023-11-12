@@ -2,6 +2,9 @@
 # Generative Wall Art with Apple Vision Pro
 A compact example project that demonstrates the core functionalities of visionOS
 
+![Simulator Screenshot - Apple Vision Pro - 2023-11-13 at 00 29 45](https://github.com/DhruvAtreja/GenerativeWallArtVisionOS/assets/51291353/e26ae3eb-64a0-4ff6-bd0f-6fed8a0767d3)
+
+
 ### visionOS APIs Used
 
 - Scene Types (WindowGroup & ImmersiveSpace)
